@@ -257,3 +257,4 @@ print_summary
 separator
 log "Health check complete"
 separator
+#TODO: Add email inergration via sendgrid
